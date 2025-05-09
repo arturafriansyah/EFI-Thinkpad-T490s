@@ -1,5 +1,5 @@
 # EFI-Thinkpad-T490s (WIP)
-EFI Hackintosh Sonoma Opencore Generate By Opencore Simplify
+EFI Hackintosh Sequoia Opencore Generate By Opencore Simplify
 
 Spesifikasi | Keterangan
 ----------- | -----------
